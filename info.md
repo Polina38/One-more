@@ -29,3 +29,6 @@ git log
 get checkout commit_code
 к любому состоянию ранее
 commit_code читаем после выполнения программы git log
+
+для возврата get checkout master
+
